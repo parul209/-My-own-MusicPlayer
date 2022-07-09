@@ -23,6 +23,13 @@ let allMusic = [
       src: "music1"
     },
     {
+      name: "Afreen Afreen ",
+    artist: "Rahet Fateh Ali Khan",
+    img: "afreen",
+    src: "afreen"
+
+    },
+    {
       name: "Guitar",
       artist: "Album",
       img: "guitar",
